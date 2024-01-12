@@ -1,0 +1,8 @@
+{  "key": 4,
+  "updateAuthority": "J7gXsfk5czaT8TwibwRYWeNtGFHbftn139W7W8Djv6jV",  "mint": "ADscAoRD6sNEU6G2eeywFpzFydirPVpdbbWZu6K2N1KL",
+  "data": {    "name": "Bull",
+    "symbol": "$Run",    "uri": "https://bafkreib4qcydu5h44s7d3wdpfaso4faho3gcnfryrvmzrcdpnpp6gxvqpq.ipfs.nftstorage.link",
+    "sellerFeeBasisPoints": 0  },
+  "primarySaleHappened": 0,  "isMutable": 1,
+  "editionNonce": 255,  "tokenStandard": 2
+}
